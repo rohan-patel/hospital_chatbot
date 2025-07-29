@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+.pipenv/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# dotenv
+.env
+
+# macOS
+.DS_Store
+
+# Log files
+*.log
+
+# Uvicorn reload artifacts
+*.pid
+
+# MongoDB dump files
+*.bson
+*.json
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# MyPy / Pyright / coverage / test cache
+.mypy_cache/
+.pyright/
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# OpenAI config (if saved locally)
+openai.log

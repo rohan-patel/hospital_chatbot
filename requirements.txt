@@ -1,0 +1,7 @@
+fastapi
+motor
+python-jose[cryptography]
+python-dotenv
+openai
+uvicorn
+python-multipart
